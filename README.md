@@ -5,4 +5,4 @@ In this lab, I will show you how to create a virtual machine by downloading and 
 1. [Downloading and Installing VirtualBox](https://github.com/jvilla1901/OnPremiseLab/blob/main/installingVirtualBox.md)
 2. [Creating a Virtual Network using VirtualBox](https://github.com/jvilla1901/OnPremiseLab/blob/main/virtualNetwork.md)
 3. [How to create Virtual Machines using VirtualBox](https://github.com/jvilla1901/OnPremiseLab/blob/main/creatingVirtualMachines.md)
-4. How to Install Windows Server 2016 on your Virtual Machine
+4. [How to Install Windows Server 2016 on your Virtual Machine](https://github.com/jvilla1901/OnPremiseLab/blob/main/installingWindowServer.md)
