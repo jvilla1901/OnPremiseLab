@@ -61,13 +61,13 @@ Now we can start our virtual machine!
 <br>The installation should begin</br>
 
 9. Once installation is complete, you will be prompted to create an admin password. Create one.
-10. You will now get to the Login screen.
+10. You will now get to the Login screen.<br>
 <br>It says that you need to press Ctrl+Alt+Delete to unlock but if I press those key combinations it will execute those commands in my Host machine.</br>
 <br>So what I want to do is from the Virtual Machine menu click on Insert > Keyboard > Insert Ctrl+Alt+Delete </br>
 
 ![Image](https://github.com/user-attachments/assets/7fdc1863-60a4-4f86-8c92-a9906afc3377)
 
-11. Now, type the password for the Administrator account we just created and press Enter.
+11. Now, type the password for the Administrator account we just created and press Enter.<br>
 <br>What we want to do now is resolve this problem with the screen which is not set correctly and we need to be scrolling up and down with the scrollbar.</br>
 <br>Click on the Virtual Machine menu and click on Devices > Insert Guest Additions CD image...</br>
 <br>Most virtualization technologies require that you install some kind of software to allow you to fully use the VM or to make it more usable.</br>
