@@ -2,8 +2,8 @@
 ### What is NAT?
 NAT (Network Address Translation) is a method used to map private, internal IP addresses to a public IP address before data is sent out to a broader network like the internet. It allows multiple devices (or virtual machines) on a private network to share a single public IP address for communication outside the local network.
 
-**Why NAT is Important When Creating a Virtual Machine**
-When you create a virtual machine (VM), it typically resides on a virtual private network within your host machine. Here's why configuring NAT is important:
+**Why NAT is Important When Creating a Virtual Machine:**
+<br>When you create a virtual machine (VM), it typically resides on a virtual private network within your host machine. Here's why configuring NAT is important:</br>
 1. You can run multiple VMs with different private IPs, all sharing the same public IP.
 2. NAT hides the internal IP structure of the virtual network from the external world.
 3. VirtualBox: Offers a “NAT” network mode that automatically allows the VM to access the internet via the host.
